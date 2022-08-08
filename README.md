@@ -18,4 +18,5 @@ I'm a very ambitious front-end developer and freelancer. And I make responsive w
 #### 🔗 Links
 
 <a herf="" target="_blank"><img src="https://github.com/kerolesnabill/kerolesnabill/blob/main/MyPortfolio.png?raw=true" width="150"/></a>
+<span width="50"></span>
 <a herf="" target="_blank"><img src="https://github.com/kerolesnabill/kerolesnabill/blob/main/LinkedIn.png?raw=true" width="150"/></a>
