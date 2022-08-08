@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Keroles Nabil
 
-<!--
-**kerolesnabill/kerolesnabill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a very ambitious front-end developer and freelancer. And I make responsive websites. I am ready to start our work, let's start now.
 
-Here are some ideas to get you started:
+#### 💻 Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React, Redux
+- Sass, Tailwind, Bootstrap
+- HTML, CSS, JS
+- Git
+
+#### 🟠 Examples of Work
+
+- <a herf="https://kerolesnabill.github.io/food-order" target="_blank">Food order website</a>
+- <a herf="https://kerolesnabill.github.io/travel-website" target="_blank">Travel website</a>
+- <a herf="https://kerolesnabill.github.io/notes-app" target="_blank">Notes website</a>
+
+#### 🔗 Links
+
+<a herf="" target="_blank"><img src="https://github.com/kerolesnabill/kerolesnabill/blob/main/MyPortfolio.png?raw=true" width="150"/></a>
+<a herf="" target="_blank"><img src="https://github.com/kerolesnabill/kerolesnabill/blob/main/LinkedIn.png?raw=true" width="150"/></a>
