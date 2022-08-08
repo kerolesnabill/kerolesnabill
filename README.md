@@ -17,6 +17,6 @@ I'm a very ambitious front-end developer and freelancer. And I make responsive w
 
 #### 🔗 Links
 
-[<img src='https://github.com/kerolesnabill/kerolesnabill/blob/main/MyPortfolio.png?raw=true' alt='linkedin' height='40'>](https://kerolesnabill.github.io/my-portfolio/){target="_blank"}  
+[<img src='https://github.com/kerolesnabill/kerolesnabill/blob/main/MyPortfolio.png?raw=true' alt='linkedin' height='40'>](https://kerolesnabill.github.io/my-portfolio/)
 &nbsp; &nbsp; 
-[<img src='https://github.com/kerolesnabill/kerolesnabill/blob/main/LinkedIn.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/kerolesnabil/){target="_blank"}  
+[<img src='https://github.com/kerolesnabill/kerolesnabill/blob/main/LinkedIn.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/kerolesnabil/)
